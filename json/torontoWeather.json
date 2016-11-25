@@ -1,0 +1,149 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2016-11-09T19:00:55Z",
+    "lang": "en-US",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Toronto, ON, CA",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-4118/",
+        "description": "Yahoo! Weather for Toronto, ON, CA",
+        "language": "en-us",
+        "lastBuildDate": "Wed, 09 Nov 2016 02:00 PM EST",
+        "ttl": "60",
+        "location": {
+          "city": "Toronto",
+          "country": "Canada",
+          "region": " ON"
+        },
+        "wind": {
+          "chill": "39",
+          "direction": "340",
+          "speed": "22"
+        },
+        "atmosphere": {
+          "humidity": "57",
+          "pressure": "1007.0",
+          "rising": "0",
+          "visibility": "16.1"
+        },
+        "astronomy": {
+          "sunrise": "7:05 am",
+          "sunset": "4:58 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Toronto, ON, CA at 01:00 PM EST",
+          "lat": "43.64856",
+          "long": "-79.385368",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-4118/",
+          "pubDate": "Wed, 09 Nov 2016 01:00 PM EST",
+          "condition": {
+            "code": "28",
+            "date": "Wed, 09 Nov 2016 01:00 PM EST",
+            "temp": "46",
+            "text": "Mostly Cloudy"
+          },
+          "forecast": [
+            {
+              "code": "39",
+              "date": "09 Nov 2016",
+              "day": "Wed",
+              "high": "51",
+              "low": "40",
+              "text": "Scattered Showers"
+            },
+            {
+              "code": "23",
+              "date": "10 Nov 2016",
+              "day": "Thu",
+              "high": "55",
+              "low": "40",
+              "text": "Breezy"
+            },
+            {
+              "code": "23",
+              "date": "11 Nov 2016",
+              "day": "Fri",
+              "high": "53",
+              "low": "36",
+              "text": "Breezy"
+            },
+            {
+              "code": "30",
+              "date": "12 Nov 2016",
+              "day": "Sat",
+              "high": "46",
+              "low": "32",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "23",
+              "date": "13 Nov 2016",
+              "day": "Sun",
+              "high": "51",
+              "low": "41",
+              "text": "Breezy"
+            },
+            {
+              "code": "30",
+              "date": "14 Nov 2016",
+              "day": "Mon",
+              "high": "50",
+              "low": "43",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "28",
+              "date": "15 Nov 2016",
+              "day": "Tue",
+              "high": "52",
+              "low": "49",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "39",
+              "date": "16 Nov 2016",
+              "day": "Wed",
+              "high": "52",
+              "low": "44",
+              "text": "Scattered Showers"
+            },
+            {
+              "code": "30",
+              "date": "17 Nov 2016",
+              "day": "Thu",
+              "high": "50",
+              "low": "40",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "18 Nov 2016",
+              "day": "Fri",
+              "high": "47",
+              "low": "39",
+              "text": "Partly Cloudy"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/28.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Mostly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Wed - Scattered Showers. High: 51Low: 40\n<BR /> Thu - Breezy. High: 55Low: 40\n<BR /> Fri - Breezy. High: 53Low: 36\n<BR /> Sat - Partly Cloudy. High: 46Low: 32\n<BR /> Sun - Breezy. High: 51Low: 41\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-4118/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
